@@ -1,0 +1,2 @@
+# namorado
+uma pequena declaração
