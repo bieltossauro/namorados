@@ -1,2 +1,2 @@
-# namorado
+# namorados
 uma pequena declaração
